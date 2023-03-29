@@ -23,3 +23,18 @@ https://docs.aws.amazon.com/cli/latest/reference/ec2/reboot-instances.html
 Quickstart for AWS CloudShell
 
 https://docs.aws.amazon.com/cloudshell/latest/userguide/working-with-cloudshell.html
+
+
+
+
+steps used in this lab is explained and shown in snapshots below;
+1. an amazon linux vm was created
+ image.png
+2. connected to vm
+ image.png
+3. VM images and sizes understood
+ image.png
+4. VM power states
+ image.png
+ image.png
+ image.png
